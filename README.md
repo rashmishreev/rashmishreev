@@ -6,7 +6,7 @@ Outside of my academic and professional commitments, I enjoy being in nature—w
 I find joy in tackling challenges and learning new things.
 
 📫 How to reach me
-#
+
 My Email: rashmishreeveeraiah@gmail.com
-#
+
 My LinkedIn: https://www.linkedin.com/in/rashmishreev/
