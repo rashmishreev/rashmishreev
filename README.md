@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Rashmi, a passionate Data Analytics Major at San José State University. Enthusiastic about unraveling insights from data, I find joy in the intricacies of analytics.  An avid learner fascinated by the intricacies of the natural world, from the depths of the ocean to the vastness of the skies and mountains. Oh, and I have a soft spot for dogs and cats! I love to learn and thrive on challenges. Welcome to my GitHub!
+I'm Rashmi, a Data Analytics Major at San José State University. I'm passionate about discovering insights into data and exploring Data Science, Analytics, Machine Learning, Large Language Models, and AI.
 
+Outside of my academic and professional commitments, I enjoy being in nature—whether by the ocean, under the sky, or in the mountains. I'm that rare individual who negotiates the delicate alliance between being a dog and a cat person – a furry diplomat if you will!
+I find joy in facing challenges and learning new things.
 
-📫 How to reach me: 📧 rashmishreeveeraiah@gmail.com 🔗 https://www.linkedin.com/in/rashmishreev/
+📫 How to reach me: My Email: rashmishreeveeraiah@gmail.com  My LinkedIn: https://www.linkedin.com/in/rashmishreev/
