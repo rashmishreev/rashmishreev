@@ -12,3 +12,5 @@ My Email: rashmishreeveeraiah@gmail.com
 My LinkedIn: https://www.linkedin.com/in/rashmishreev/
 
 My Website: https://rashmishreev.github.io/
+
+![](https://komarev.com/ghpvc/?username=rashmishreev&style=flat-square&color=blueviolet)
