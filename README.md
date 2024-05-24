@@ -13,4 +13,6 @@ My LinkedIn: https://www.linkedin.com/in/rashmishreev/
 
 My Website: https://rashmishreev.github.io/
 
+Substack: [Everything Starts With Data](https://substack.com/@everythingstartswithdata?utm_source=profile-page)
+
 ![](https://komarev.com/ghpvc/?username=rashmishreev&style=flat-square&color=blueviolet)
