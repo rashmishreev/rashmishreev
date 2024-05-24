@@ -15,5 +15,7 @@ Substack: [Everything Starts With Data](https://substack.com/@everythingstartswi
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashmishreev/)
 
+[![](https://img.shields.io/badge/with%20a%20logo-#FF6719?style=for-the-badge&logo=substack)](https://www.linkedin.com/in/rashmishreev/)
+
 ![](https://komarev.com/ghpvc/?username=rashmishreev&style=flat-square&color=blueviolet)
 
